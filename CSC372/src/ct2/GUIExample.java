@@ -1,4 +1,4 @@
-package CT2;
+package ct2;
 
 import javax.swing.JFrame;
 import javax.swing.JLabel;

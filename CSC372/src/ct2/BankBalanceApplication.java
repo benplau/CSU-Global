@@ -1,4 +1,4 @@
-package CT2;
+package ct2;
 
 import java.awt.FlowLayout;
 import java.awt.event.ActionEvent;

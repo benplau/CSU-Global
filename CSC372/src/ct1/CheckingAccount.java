@@ -1,4 +1,4 @@
-package CT1;
+package ct1;
 
 public class CheckingAccount extends BankAccount {
 	private double interestRate;

@@ -1,4 +1,4 @@
-package CT1;
+package ct1;
 
 public class BankAccount {
 	private String firstName;
