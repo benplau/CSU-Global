@@ -103,7 +103,7 @@ public class UserInterface extends Application {
 
     private void changeBackgroundColor() {
         Random random = new Random();
-        int hue = 15 + 15 * random.nextInt((225 - 15) / 15 + 1);
+        int hue = 75 + 15 * random.nextInt((165 - 75) / 15 + 1);
         Color color = Color.hsb(hue, 1, 1);
         BackgroundFill backgroundFill = new BackgroundFill(color, null, null);
         Background background = new Background(backgroundFill);
