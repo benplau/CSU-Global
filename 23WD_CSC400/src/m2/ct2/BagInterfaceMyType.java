@@ -1,9 +1,9 @@
 package m2.ct2;
 
-public interface BagInterfaceMyType<MyType> {
-	void add(MyType newEntry);
+public interface BagInterfaceMyType<T> {
+    void add(T newEntry);
 
-	MyType[] toArray();
+    T[] toArray();
 
-	boolean isFull();
+    boolean isFull();
 }
